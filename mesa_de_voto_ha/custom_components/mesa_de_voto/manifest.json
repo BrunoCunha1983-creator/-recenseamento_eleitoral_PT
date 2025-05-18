@@ -1,0 +1,9 @@
+{
+  "domain": "mesa_de_voto",
+  "name": "Mesa de Voto",
+  "documentation": "https://github.com/exemplo/mesa_de_voto_ha",
+  "requirements": ["beautifulsoup4", "requests"],
+  "codeowners": ["@exemplo"],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Mesa de Voto",
+  "content_in_root": false,
+  "domain": "mesa_de_voto",
+  "zip_release": false,
+  "filename": "custom_components/mesa_de_voto/__init__.py"
+}
