@@ -1,7 +1,8 @@
 {
-  "name": "Mesa de Voto",
+  "name": "Recenseamento Eleitoral PT",
   "content_in_root": false,
-  "domain": "mesa_de_voto",
-  "zip_release": false,
-  "filename": "custom_components/mesa_de_voto/__init__.py"
+  "domain": "recenseamento_eleitoral_PT",
+  "country": "PT",
+  "homeassistant": "2023.0.0",
+  "render_readme": true
 }
